@@ -54,7 +54,3 @@ As fontes são primárias, públicas e consumidas via **API OData (Plataforma Ol
 | **`MeiosdePagamentosMensalDA`** | Mensal (Nov/2020 – Jul/2026) | 69 obs. Volumes/valores de Pix, TED, Cheque, Boleto e DOC (DOC zerado após descontinuação). | 🟢 Coletado |
 | **`Quantidadeetransacoesdecartoes`** | Trimestral (4Q20 – 1Q26) | 22 obs. Estoque e transações de cartões de crédito e débito. | 🟢 Coletado |
 | **`MeiosdePagamentosTrimestralDA`** | Trimestral | Falha no servidor do BCB (Erro 500 para todos os 22 trimestres). | 🟡 Pendente (Fallback: Abecs) |
-
----
-
-## 🗓️ Cronograma do Projeto
